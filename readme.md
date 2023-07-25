@@ -1,4 +1,4 @@
-### kafka, kafdrop
+### kafka and managing clusters with kafdrop
 
 ![123](https://github.com/OwenKimcertified/kafka/assets/99598620/5188c704-0743-4ea1-9457-1bb508b34e6f)
 
