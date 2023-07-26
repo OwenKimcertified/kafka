@@ -8,6 +8,8 @@
 ### Using tlc trip data, categorize normal and abnormal data 
 ### according to specific criteria and store them in each topic.
 
+### test code
+
 ![56](https://github.com/OwenKimcertified/kafka/assets/99598620/e659d95d-8c1d-450f-9a35-071af3485cb6)
 
 ![57](https://github.com/OwenKimcertified/kafka/assets/99598620/267e9387-bf7a-40cc-8dad-a2a868f34fb7)
