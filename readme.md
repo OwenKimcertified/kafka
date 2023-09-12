@@ -16,8 +16,5 @@
 
 ![59](https://github.com/OwenKimcertified/kafka/assets/99598620/812275ba-604b-41d4-a4f7-e62d1d5ff2b4)
 
-### I want to combine it with MLOps
-
-
 ### ADD + 2023-08-02 TLC_TRIP_DATA JEN ~ JUL + TAXI ZONE MAPS AND LOOKUP TABLES : EDA CSV
 
