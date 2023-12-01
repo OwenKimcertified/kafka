@@ -18,3 +18,4 @@
 
 ### ADD + 2023-08-02 TLC_TRIP_DATA JEN ~ JUL + TAXI ZONE MAPS AND LOOKUP TABLES : EDA CSV
 
+### ADD NEW Broker nodes in kafka cluster (docker)
