@@ -4,7 +4,7 @@
 
 1. what is producer, consumer and config
 
-2. how kafka makes high availability with config (leader epoch, water mark, log compaction)
+2. how kafka makes high availability with config (leader epoch, water mark, log compaction, segment)
 
 ### kafka and managing clusters with kafdrop
 ![5](https://github.com/OwenKimcertified/kafka/assets/99598620/73f8ddc4-8e8c-4f38-9535-c1ca887b25fc)
